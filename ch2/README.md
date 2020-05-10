@@ -4,6 +4,7 @@ A program executes instructions, processor fetches instructions from memory, dec
 OS job is to make it easy to run programs, enable them to share memory, allowing them to interact with devices, etc.
 
 ---
+### Three major themes in OS: 
 
 #### Virtualization 
 
@@ -15,5 +16,18 @@ OS job is to make it easy to run programs, enable them to share memory, allowing
 * Each process has its own virual address space.
 
 #### Concurrency 
+
+* create threads in c with Pthreads_create()
+* a **thread** is a function runnign withing the same memory space as other functions, with more than one active simultaneously.
+* if a thread does not have a mutex / sync primitive, then strange things can happen. 
+
+#### Persistance
+* data in memory should be preservered in some kind of i/o / driver / ssd 
+* software that manages the disk -> file system. 
+* writing to disk
+    1. search disk where data is located 
+    2. access low level disk driver with standard lib
+ 
+
  
 
