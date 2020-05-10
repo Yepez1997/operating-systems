@@ -1,2 +1,2 @@
 # operating-systems
-notes on os and code
+Notes from OSTEP third edition on operating systems
