@@ -1,6 +1,6 @@
 # operating-systems
 Notes from OSTEP third edition on operating systems && Linux Kernel Development. </br>
-just jotting down key words. 
+Just jotting down key words and phrases. 
 
 
 ### OSTEP
@@ -20,4 +20,5 @@ just jotting down key words.
    * sys call number 
    * sys call table 
    * context switch (user to kernel, kernel to user) $0x80 
-   * 
+   * parameter passing with registers
+   * verifying parameters in sys calls 
