@@ -1,6 +1,6 @@
 # operating-systems
-Notes from OSTEP third edition on operating systems && Linux Kernel Development.
-* just jotting down key words. 
+Notes from OSTEP third edition on operating systems && Linux Kernel Development. </br>
+just jotting down key words. 
 
 
 ### OSTEP
