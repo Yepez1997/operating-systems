@@ -15,3 +15,9 @@ just jotting down key words.
    * microkernel design 
    * system calls
 - [x] Chapter 5: System Calls 
+   * unix posix standard
+   * sys calls (perror(),  getpid())
+   * sys call number 
+   * sys call table 
+   * context switch (user to kernel, kernel to user) $0x80 
+   * 
