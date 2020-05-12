@@ -16,6 +16,7 @@ Just jotting down key words and phrases.
    * monolithic kernel design
    * microkernel design 
    * system calls
+   
 - [x] Chapter 5: System Calls 
    * unix posix standard
    * sys calls (perror(),  getpid())
