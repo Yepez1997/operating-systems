@@ -5,6 +5,8 @@ Just jotting down key words and phrases.
 
 ### OSTEP
 - [x] Chapter 2: Introduction to Operating Systems 
+   * trap handler
+   * kernel mode
     
 
 ### Linux Kernel Developement 
