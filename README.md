@@ -22,3 +22,4 @@ Just jotting down key words and phrases.
    * context switch (user to kernel, kernel to user) $0x80 
    * parameter passing with registers
    * verifying parameters in sys calls 
+   * sys call implementaion, sys call context, binding (add to tail in sys table)
