@@ -29,3 +29,11 @@ Just jotting down key words and phrases. Chapters are read out of order.
    
  - [x] Chapter 2: Process Management
    * processes & threads
+   * virtualized proccess, virtualized memory
+   * fork, exec, wait4, waitpid, exit,
+   * task list (doubly linked list)
+   * slab allocator 
+   * pid_t (PID)
+   * process state (5 possible states)
+   * ptrace 
+   * process context
