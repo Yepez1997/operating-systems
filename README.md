@@ -37,3 +37,4 @@ Just jotting down key words and phrases. Chapters are read out of order.
    * process state (5 possible states)
    * ptrace 
    * process context
+   * copy on write pages
