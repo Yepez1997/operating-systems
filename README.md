@@ -1,6 +1,6 @@
 # operating-systems
 Notes from OSTEP third edition on operating systems && Linux Kernel Development. </br>
-Just jotting down key words and phrases. 
+Just jotting down key words and phrases. Chapters are read out of order. 
 
 
 ### OSTEP
@@ -26,3 +26,6 @@ Just jotting down key words and phrases.
    * parameter passing with registers
    * verifying parameters in sys calls 
    * sys call implementaion, sys call context, binding (add to tail in sys table)
+   
+ - [x] Chapter 2: Process Management
+   * processes & threads
