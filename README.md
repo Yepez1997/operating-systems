@@ -38,3 +38,7 @@ Just jotting down key words and phrases. Chapters are read out of order.
    * ptrace 
    * process context
    * copy on write pages
+   * fork, vfork, _clone
+   * clone() -> do_fork() -> copy_process() -> copy_flags()
+   * vfork() - page tables not copied
+   * kernel threads (do not have an adress space)
