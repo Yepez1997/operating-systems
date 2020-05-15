@@ -60,3 +60,5 @@ Just jotting down key words and phrases. Chapters are read out of order.
    * do_exit() kernel/exit.c
    * ipc semaphore 
    * release_task()
+   * orphan processes (child exits)
+   * ptraced list 
