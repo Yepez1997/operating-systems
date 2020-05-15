@@ -22,6 +22,7 @@ Just jotting down key words and phrases. Chapters are read out of order.
    * running to ready -> descheduled
    * procces list / task list / process control block
    * register context 
+   * final state exited but not cleaned : zombie 
    
 ### Linux Kernel Developement 
 - [x] Chapter 1: Introduction to Linux Kernel 
