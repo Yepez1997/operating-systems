@@ -56,4 +56,7 @@ Just jotting down key words and phrases. Chapters are read out of order.
    * fork, vfork, _clone
    * clone() -> do_fork() -> copy_process() -> copy_flags()
    * vfork() - page tables not copied
-   * kernel threads (do not have an adress space)
+   * kernel threads (do not have an adress space) linux/kthread.c
+   * do_exit() kernel/exit.c
+   * ipc semaphore 
+   * release_task()
