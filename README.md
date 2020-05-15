@@ -7,8 +7,22 @@ Just jotting down key words and phrases. Chapters are read out of order.
 - [x] Chapter 2: Introduction to Operating Systems 
    * trap handler
    * kernel mode
-    
-
+   
+- [x] Chapter 4: The Abstraction: The Process
+   * virtualizing 
+   * time sharing
+   * mechanisms
+   * policies 
+   * scheduling policies 
+   * machine state
+   * program counter / instruction pointer
+   * mechanism to how as policy to which 
+   * paging / swapping 
+   * ready to running -> scheduled 
+   * running to ready -> descheduled
+   * procces list / task list / process control block
+   * register context 
+   
 ### Linux Kernel Developement 
 - [x] Chapter 1: Introduction to Linux Kernel 
    * user space 
